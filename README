@@ -3,7 +3,9 @@
 Have you ever needed to power a guitar pedal at your desk? What about on the go? Maybe you're away from your board and you just want to test something out, but you've got no power bank.
 
 Enter the USB power converter. This USB-A plugin device provides a 9V(ish) power source to a [standard DC power jack](link here) so that you can power a pedal in any situation.
-[[/render.png|RENDER TEXT]]
+
+![RENDER TEXT](/render.png)
+
 
 ## Project Details
 Includes a zip file of gerber data for the PCB, as well as BOM and Pick'n'Place files for JLCPCB. [All files found here]().
