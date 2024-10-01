@@ -12,4 +12,5 @@ Includes a zip file of gerber data for the PCB, as well as BOM and Pick'n'Place 
 
 ## Technical Details
 The chip on this board is the [LTC660](https://www.analog.com/media/en/technical-documentation/data-sheets/660fa.pdf), a low-power CMOS charge pump that can provide up to 100mA of current. The basic schematic is taken from the datasheet 
+
 ![LTC660 Voltage doubler schematic](./datasheet.png)
